@@ -1,2 +1,0 @@
-# DemoRepo
-Demo Repository
